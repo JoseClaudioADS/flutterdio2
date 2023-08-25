@@ -1,0 +1,1 @@
+class AlturaInvalidaException implements Exception {}

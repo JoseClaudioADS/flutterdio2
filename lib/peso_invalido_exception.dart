@@ -1,0 +1,1 @@
+class PesoInvalidoException implements Exception {}
